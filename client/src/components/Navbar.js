@@ -16,7 +16,7 @@ const AppNavbar = () => {
       <Navbar collapseOnSelect variant='dark' expand='lg' className="navbar">
         <Container fluid>
           <Navbar.Brand as={Link} to='/'>
-            Expense Tracker
+            CoinCraft
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='navbar' />
           <Navbar.Collapse id='navbar'>

@@ -170,7 +170,7 @@ const Transactions = ({ transactions, setTransactions }) => {
   return (
     <div className="container transaction-page">
       <h1 className="mt-5 mb-5 expense-tracker-header">
-        Welcome to your Expense Tracker!
+        Welcome to your CoinCraft!
       </h1>
 
       <div className="row">

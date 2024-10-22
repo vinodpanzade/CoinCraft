@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="home-body mb-5">
       <div className="text-center">
-        <h1 className="home-title">Expense Tracker</h1>
+        <h1 className="home-title">CoinCraft</h1>
         <p className="home-subtitle">
           Keep your finances in check and reach your financial goals
         </p>
@@ -86,7 +86,7 @@ const Home = () => {
               <div className="card-body card-testimonials">
                 
                 <p className="card-text">
-                  "I love using Expense Tracker! It's so easy to use and helps
+                  "I love using CoinCraft! It's so easy to use and helps
                   me keep track of my spending."
                 </p>
                 <p className="card-text">Sarah J.</p>
@@ -133,10 +133,10 @@ const Home = () => {
             <div className="card card-testimonials w-100">
               <div className="card-body card-testimonials">
                 <p className="card-text">
-                  "Expense Tracker has helped me identify my spending patterns
+                  "CoinCraft has helped me identify my spending patterns
                   and make smarter financial decisions. I highly recommend it!"
                 </p>
-                <p className="card-text">- David L.</p>
+                <p className="card-text">-Vinod Panzade</p>
               </div>
             </div>
           </div>
