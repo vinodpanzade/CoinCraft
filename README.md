@@ -16,14 +16,10 @@
 
 
   
-  ## Table of Contents
+
+
   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  
-  ## Usage
-  
-  sign up/log in to deployed URL above
+ 
 
 
   
